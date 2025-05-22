@@ -13,6 +13,8 @@ flask = "*"
 flask-login = "*"
 flask-sqlalchemy = "*"
 faster-whisper = "*"
+flask-wtf = "*"
+email_validator = "*"
 
 [dev-packages]
 
